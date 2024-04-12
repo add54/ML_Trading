@@ -7,8 +7,8 @@ from alpaca_trade_api import REST
 from timedelta import Timedelta 
 from finbert_utils import estimate_sentiment
 
-API_KEY = "YOUR API KEY" 
-API_SECRET = "YOUR API SECRET" 
+API_KEY = "PKPJSW1XR30EPYAIBDMN"
+API_SECRET = "UISlL47d70PzazqtuM42Zl7oc7Rnz1UJJumn2wuK"
 BASE_URL = "https://paper-api.alpaca.markets"
 
 ALPACA_CREDS = {
